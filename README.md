@@ -1,6 +1,6 @@
 # Wishlist
 
-Aplicação desenvolvida com o propósito de representar uma Wishlist. Em sua implementação foram utilizados: 
+Projeto desenvolvido com o propósito de representar uma api para Wishlist. Em sua implementação foram utilizados: 
  - Framework Falcon para api;
  - Mongodb para o banco de dados;
  - Docker e docker-composer para a conteinerização da aplicação; 
