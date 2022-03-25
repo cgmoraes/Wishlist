@@ -1,0 +1,4 @@
+falcon==3.0.1
+falcon_multipart
+pymongo
+jsonschema
